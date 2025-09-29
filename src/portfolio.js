@@ -13,7 +13,7 @@ const greeting = {
   title2: "Harikrushn",
   logo_name: "harry.k()",
   nickname: "harry / picleric",
-  full_name: "Harikrushn Kanani",
+  full_name: "Sanjana Gangishetty",
   subTitle: "Backend Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
     "https://drive.google.com/file/d/1ThjCisD-FnEPQcYAYU2XBsulYWcyCGF2/view?usp=drivesdk",
