@@ -10,31 +10,26 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Harikrushn",
-  logo_name: "harry.k()",
-  nickname: "harry / picleric",
+  title2: "Sanjana",
+  logo_name: "sanjana.g()",
   full_name: "Sanjana Gangishetty",
   subTitle: "Backend Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
     "https://drive.google.com/file/d/1ThjCisD-FnEPQcYAYU2XBsulYWcyCGF2/view?usp=drivesdk",
-  mail: "mailto:hkanani191@gmail.com",
+  mail: "mailto:sanjana2003g@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/harikanani",
-  linkedin: "https://www.linkedin.com/in/harikrushn-kanani/",
-  gmail: "hkanani191@gmail.com",
-  gitlab: "https://gitlab.com/harikanani",
-  // facebook: "https://www.facebook.com/harikrishan.kanani/",
-  twitter: "https://twitter.com/Harikrushn9",
-  instagram: "https://www.instagram.com/hari_kanani_/",
+  github: "https://github.com/sanjanag197",
+  linkedin: "https://www.linkedin.com/in/sanjana-gangishetty7",
+  gmail: "sanjana2003g@gmail.com",
 };
 
 const skills = {
   data: [
     {
-      title: "Full Stack Development",
+      title: "Full Stack Developer",
       fileName: "FullStackImg",
       skills: [
         "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
